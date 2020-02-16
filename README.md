@@ -2,4 +2,4 @@
 
 
 The main purpose is to make a habit of coding daily and see how far I could go.
-#### Here is a [demo](https://robertgeica.github.io/JavaScript-Exercises/)
+
